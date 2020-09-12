@@ -10,9 +10,6 @@ namespace WebApplication1
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new BabelBundle("~/bundles/main").Include(
-                //"~/Scripts/src/Tutorial.jsx"
-                //"~/Scripts/src/TutorialClass.jsx"
-
                 "~/Scripts/src/Components/Comment.jsx",
                 "~/Scripts/src/Components/CommentList.jsx",
                 "~/Scripts/src/Components/CommentForm.jsx",
