@@ -11,8 +11,7 @@ namespace WebApplication1
                 "~/Scripts/src/Components/Comment.jsx",
                 "~/Scripts/src/Components/CommentList.jsx",
                 "~/Scripts/src/Components/CommentForm.jsx",
-                "~/Scripts/src/Components/CommentBox.jsx",
-                "~/Scripts/src/main.jsx"
+                "~/Scripts/src/Components/CommentBox.jsx"
             ));
 
             // Forces files to be combined and minified in debug mode

@@ -168,7 +168,6 @@
     <Content Include="Scripts\src\Components\CommentBox.jsx" />
     <Content Include="Scripts\src\Components\CommentForm.jsx" />
     <Content Include="Scripts\src\Components\CommentList.jsx" />
-    <Content Include="Scripts\src\main.jsx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
